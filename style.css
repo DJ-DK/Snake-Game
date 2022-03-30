@@ -204,3 +204,13 @@ Tiles
   bottom: 0;
 }
 
+.footer{
+  position: absolute;
+  margin-top: 10px;
+  left: calc(50% + 10px);
+  transform: translate(calc(-50% - 4px), -1px);
+  -webkit-transform: translate(calc(250% - 4px), -1px);
+  top: 90%;
+  bottom: 0;
+}
+
